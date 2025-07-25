@@ -57,8 +57,8 @@
 ---
 
 ### 🎉 Featured Project
-> 🧠 `Web Extension with Ai`: Web extension for multi-purpose 
-> 💻 Helps with scheduling, mental wellness, FAQs, and more  
+> 🧠 `Web Extension with Ai`: Web extension for multi-purpose <br>
+> 💻 Helps for small login task to any Ai suggestion 
 > 🔗 [Check it out](https://github.com/your-org/campus-companion)
 
 ---
