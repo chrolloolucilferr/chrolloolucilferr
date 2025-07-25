@@ -27,7 +27,7 @@
 
 ### 🔧 Technologies I Use
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,django,git,github,figma,aws,linux,unity" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,django,git,github,figma,aws,linux,unity,C,C++,C#,Java" />
 </p>
 
 ---
@@ -49,15 +49,15 @@
 
 ### 🔗 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://github.com/jemitmalnika"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github" /></a>
+  <a href="https://www.linkedin.com/in/jemit-malnika-b786a532a/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:jemitmalnika@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://github.com/chrolloolucilferr"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github" /></a>
 </p>
 
 ---
 
 ### 🎉 Featured Project
-> 🧠 `Campus Companion`: AI Agent for College Productivity & Support  
+> 🧠 `Web Extension with Ai`: Web extension for multi-purpose 
 > 💻 Helps with scheduling, mental wellness, FAQs, and more  
 > 🔗 [Check it out](https://github.com/your-org/campus-companion)
 
