@@ -58,9 +58,8 @@
 
 ### 🎉 Featured Project
 > 🧠 `Web Extension with Ai`: Web extension for multi-purpose <br>
-> 💻 Helps for small login task to any Ai suggestion 
-> 🔗 [Check it out](https://github.com/your-org/campus-companion)
-
+> 💻 Helps for small login task to any Ai suggestion <br>
+>  Stay Tuned
 ---
 
 <p align="center">
