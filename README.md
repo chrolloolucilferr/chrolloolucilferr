@@ -1,6 +1,6 @@
 <h1 align="center">Hey there! 👋 I'm <span style="color:#ff69b4;">Jemit Malnika</span></h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=ff69b4&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Frontend+Magician+%F0%9F%9A%80;Cybersecurity+Intern+%F0%9F%94%90;Hackathon+Champion+%F0%9F%8F%86;Loves+CSS+Animation+and+Hearts+%E2%9D%A4%EF%B8%8F;Let%27s+Build+Something+Cool+Together+%F0%9F%A4%9D" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=ff69b4&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Tech+Generalist+%F0%9F%9A%80;Vulnerability+Assessment+Intern+%F0%9F%94%90;Hackathon+Champion+%F0%9F%8F%86;Loves+CSS+Animation+and+Hearts+%E2%9D%A4%EF%B8%8F;Let%27s+Build+Something+Cool+Together+%F0%9F%A4%9D" />
 </p>
 
 ---
